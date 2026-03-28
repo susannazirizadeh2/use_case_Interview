@@ -103,3 +103,6 @@ __pycache__/
 # =========================
 config.local.*
 settings.local.*
+chroma_db/chroma.sqlite3
+chroma_db/97c06800-1bae-4d3b-b6ea-570c6547e522/data_level0.bin
+chroma_db/chroma.sqlite3
